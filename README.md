@@ -15,3 +15,11 @@ Hack Quests
 5. https://pwnable.kr/index.php
 6. https://www.root-me.org/
 7. https://microcorruption.com/
+
+Assembler
+1. https://ravesli.com/uroki-assemblera/
+
+Math
+1. https://mathstudy.online/highmath
+2. http://mathprofi.ru/
+3. https://www.math10.com/ru/vysshaya-matematika/
