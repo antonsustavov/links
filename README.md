@@ -23,3 +23,10 @@ Math
 1. https://mathstudy.online/highmath
 2. http://mathprofi.ru/
 3. https://www.math10.com/ru/vysshaya-matematika/
+
+Pattern
+1. https://github.com/iluwatar/java-design-patterns
+
+Java
+1. https://medium.com/issuehunt/50-top-java-projects-on-github-adbfe9f67dbc
+2. https://github.com/Vedenin/useful-java-links/tree/master/link-rus
